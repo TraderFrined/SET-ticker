@@ -282,7 +282,7 @@ FSX.bk
 GBX.bk
 GL.bk
 HENG.bk
-IFS.bk
+S.bk
 JMT.bk
 KCAR.bk
 KGI.bk
@@ -361,7 +361,7 @@ BCT.bk
 CMAN.bk
 GC.bk
 GGC.bk
-GIFT.bk
+GT.bk
 IVL.bk
 NFC.bk
 PATO.bk
@@ -521,7 +521,7 @@ TTCL.bk
 UNIQ.bk
 WGE.bk
 7UP.bk
-ABPIF.bk
+ABP.bk
 ACC.bk
 ACE.bk
 AGE.bk
@@ -535,13 +535,11 @@ BCP.bk
 BCPG.bk
 BGRIM.bk
 BPP.bk
-BRRGIF.bk
 CKP.bk
 CV.bk
 DEMCO.bk
 EA.bk
 EASTW.bk
-EGATIF.bk
 EGCO.bk
 EP.bk
 ETC.bk
@@ -549,10 +547,8 @@ GPSC.bk
 GREEN.bk
 GULF.bk
 GUNKUL.bk
-IFEC.bk
 IRPC.bk
 JR.bk
-KBSPIF.bk
 LANNA.bk
 MDX.bk
 NOVA.bk
@@ -575,7 +571,6 @@ SPCG.bk
 SPRC.bk
 SSP.bk
 SUPER.bk
-SUPEREIF.bk
 SUSCO.bk
 TAE.bk
 TCC.bk
@@ -693,7 +688,6 @@ BA.bk
 BEM.bk
 BIOTEC.bk
 BTS.bk
-BTSGIF.bk
 DMT.bk
 III.bk
 SJWD.bk
@@ -707,7 +701,6 @@ PORT.bk
 PRM.bk
 PSL.bk
 RCL.bk
-TFFIF.bk
 THAI.bk
 TSTE.bk
 TTA.bk
@@ -726,7 +719,6 @@ AIT.bk
 ALT.bk
 AMR.bk
 BLISS.bk
-DIF.bk
 FORTH.bk
 HUMAN.bk
 ILINK.bk
@@ -735,7 +727,6 @@ INSET.bk
 INTUCH.bk
 ITEL.bk
 JAS.bk
-JASIF.bk
 JMART.bk
 JTS.bk
 MFEC.bk
